@@ -55,20 +55,25 @@ content:
           - Implemented **AJAX for seamless user interactions** such as filtering products and updating the cart without reloading the page.  
           - Managed user authentication and product data with **PHP and MySQL**.  
 
-  - title: Experience  
-    layout: list  
-    content:  
-      - layout: right  
-        title: [Company Name]  
-        sub_title: Web Developer Intern  
-        caption: [Month Year]  
-        link: [Company Website]  
-        quote: >  
-          [Short description about the company]  
-        description: |  
-          - Assisted in front-end development using **HTML, CSS, and JavaScript**.  
-          - Worked with **PHP/Python** to build and optimize backend features.  
-          - Collaborated with senior developers to enhance website performance.  
+- title: Experience  
+layout: list  
+content:  
+  - layout: right  
+    title: "Personal Projects"  
+    sub_title: "Web Developer"  
+    caption: "2021 - Present"  
+    link: ""  
+    quote: >  
+      Worked on various web projects, focusing on frontend and backend development.  
+    description: |  
+      - Developed multiple responsive websites using **HTML, CSS, SASS, and JavaScript**.  
+      - Built dynamic web applications using **PHP and Python (Flask/Django)**.  
+      - Integrated APIs and databases (MySQL, MongoDB) to enhance web functionalities.  
+      - Implemented performance optimizations to improve page loading speed.  
+        
+ 
+
+
 
   - title: Education  
     layout: list  
