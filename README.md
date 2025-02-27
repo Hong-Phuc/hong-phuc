@@ -5,7 +5,7 @@ This is my personal CV, built using [Jekyll Template Name] and hosted on GitHub 
 ## 📌 About This Repository  
 - 🌟 **Purpose**: A professional CV to showcase my skills and experiences.  
 - 🛠 **Technologies Used**: Jekyll, HTML, CSS, Markdown.  
-- 🚀 **Live Version**: [here](https://github.com/Hong-Phuc)  
+- 🚀 **Live Version**: [here]([https://github.com/Hong-Phuc](https://hong-phuc.github.io/hong-phuc-my-cv/))  
 
 ## 🔧 How to Use  
 If you want to use this template for your own CV:  
