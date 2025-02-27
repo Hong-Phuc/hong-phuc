@@ -61,7 +61,7 @@ content:
       - layout: right  
         title: [Company Name]  
         sub_title: Web Developer Intern  
-        caption: [Month Year] - Present  
+        caption: [Month Year]  
         link: [Company Website]  
         quote: >  
           [Short description about the company]  
