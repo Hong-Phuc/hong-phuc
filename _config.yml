@@ -24,7 +24,7 @@ dribbble_username: ReFelix7
 linkedin_username: Hong Phuc Nguyen
 
 
-about_profile_image: images/profile_avatar.jpg
+about_profile_image: images/profile_avatar.png
 about_content: | # this will include new lines to allow paragraphs
   I am a passionate web developer with a strong foundation in **HTML, CSS, JavaScript, PHP, and Python**.  
   My primary focus is on **building dynamic and responsive web applications**, and I am currently expanding my expertise in **React.js** and **Android development**.  
